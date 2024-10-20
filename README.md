@@ -6,11 +6,17 @@
 
 ---
 
+<img src=Images/Real2.jpg alt="Comp-Graphic-and-Visualization" width="500" height="350"/> <img src=Images/FinalProject.jpg alt="Comp-Graphic-and-Visualization" width="500" height="350"/>
+
+
 ## 🚀 How Do I Approach Designing Software?
 
 - **Approach**:  
   Designing software involves identifying the requirements, understanding user needs, and defining clear objectives. For OpenGL projects, I start by conceptualizing the visual elements I want to create, such as 3D models and scenes.
-  
+
+
+  <img src=Images/InitialAssignment.png alt="Comp-Graphic-and-Visualization" width="500" height="300"/>
+
 - **New Design Skills**:  
   Working on OpenGL projects helps me develop skills in spatial thinking, understanding lighting and textures, and how these elements interact in a 3D space.
 
@@ -27,6 +33,10 @@
 
 - **Approach**:  
   Development begins with setting up a basic rendering loop, then expanding by adding complexity, such as lighting, textures, and user interaction. The focus is on writing clean, manageable code that adheres to good software engineering principles.
+
+
+  <img src=Images/Progress.png alt="Comp-Graphic-and-Visualization" width="450" height="300"/>
+
   
 - **New Development Strategies**:  
   During development, I focus on performance optimization techniques, such as memory management and optimizing rendering pipelines to ensure smooth operation of the 3D scenes.
@@ -64,8 +74,4 @@ glBegin(GL_TRIANGLES);
    glVertex3f(0.5f, -0.5f, 0.0f);
    glVertex3f(0.0f, 0.5f, 0.0f);
 glEnd();
----
-📧 Contact
-If you'd like to connect or discuss my work, feel free to reach out:
-Email: bbenouari@gmail.com
 ---
