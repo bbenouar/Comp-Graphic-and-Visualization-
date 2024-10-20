@@ -13,7 +13,7 @@
   
 - **New Design Skills**:  
   Working on OpenGL projects helps me develop skills in spatial thinking, understanding lighting and textures, and how these elements interact in a 3D space.
-  ![Alt Text](Images/InitialAssignment.png)
+
   
 - **Design Process**:  
   It starts with imagining the scene, then sketching out the interactions and gradually improving the details to make it look more realistic.
