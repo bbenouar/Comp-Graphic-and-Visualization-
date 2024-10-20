@@ -67,8 +67,8 @@ glEnd();
 OpenGL Official Documentation
 My LinkedIn Profile
 GitHub Repo
+
 📧 Contact
 If you'd like to connect or discuss my work, feel free to reach out:
-
 Email: bbenouari@gmail.com
-LinkedIn: Brahim Benouari
+
