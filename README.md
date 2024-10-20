@@ -63,12 +63,8 @@ glBegin(GL_TRIANGLES);
    glVertex3f(0.5f, -0.5f, 0.0f);
    glVertex3f(0.0f, 0.5f, 0.0f);
 glEnd();
-🔗 Links
-OpenGL Official Documentation
-My LinkedIn Profile
-GitHub Repo
-
+---
 📧 Contact
 If you'd like to connect or discuss my work, feel free to reach out:
 Email: bbenouari@gmail.com
-
+---
